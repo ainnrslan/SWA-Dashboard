@@ -2,8 +2,8 @@ streamlit
 pandas
 numpy
 matplotlib
+seaborn
 plotly
 scikit-learn
 xgboost
 statsmodels
-openpyxl
