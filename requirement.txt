@@ -1,9 +1,7 @@
 streamlit
 pandas
 numpy
-import matplotlib.pyplot as plt
+matplotlib
 seaborn
-plotly
 scikit-learn
-xgboost
 statsmodels
